@@ -14,7 +14,7 @@
     }
     return $hash;
 }
-function printhello()
+function printhello2()
 {
 	print "hello to git";
 }
