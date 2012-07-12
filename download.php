@@ -14,6 +14,10 @@
     }
     return $hash;
 }
+function printhello()
+{
+	print "hello to git";
+}
 function downloadFile( $fullPath ){ 
 
   // Must be fresh start 
